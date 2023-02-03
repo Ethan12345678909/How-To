@@ -1,0 +1,31 @@
+.top {
+    background-color: silver;
+    border: 2px solid black;
+    font-family: verdana;
+    text-align: center;
+    font-style: bold;
+    font-size: 30px;
+    padding: 20px;
+}
+.topparagraph {
+    background-color: white;
+    padding: 30px;
+    font-family: verdana;
+    border: 1px solid black;
+    padding-top: 117px;
+    padding-bottom: 117px;
+}
+.middle {
+    font: white;
+    font-family: verdana;
+    font-size: 13px;
+}
+.footer {
+    background-color: silver;
+    border: 2px solid black;
+    font-family: verdana;
+    text-align: center;
+    font-style: bold;
+    font-size: 20px;
+    padding: 20px;
+}
